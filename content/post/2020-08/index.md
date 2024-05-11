@@ -3,7 +3,7 @@ title: Agosto - 2020
 description: Presentations by Andrés Testi & Matias Lafroce
 slug: 2020-august
 date: 2020-08-25
-image: cover.svg
+image: cover.jpg
 categories:
     - MeetUp
 ---

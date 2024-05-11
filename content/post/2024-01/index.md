@@ -3,7 +3,7 @@ title: Enero - 2024
 description: Presentations by Edgar Luque, Juan Bono & Hernán Gonzalez
 slug: 2024-january
 date: 2024-01-20
-image: cover.svg
+image: cover.jpg
 categories:
     - MeetUp
 ---

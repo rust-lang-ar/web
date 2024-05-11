@@ -3,7 +3,7 @@ title: Abril - 2024
 description: What's New In Rust
 slug: 2024-april
 date: 2024-04-01
-image: cover.svg
+image: cover.jpg
 categories:
     - MeetUp
 ---
