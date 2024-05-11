@@ -10,15 +10,23 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/rust-lang-ar"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "meetup"
+name = "MeetUp"
+url = "https://www.meetup.com/rust-argentina/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-meetup"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://www.youtube.com/channel/UCgMfqeykzhtqqHdOKJxfZ2A"
+
+[social.params]
+icon = "brand-youtube"
