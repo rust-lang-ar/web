@@ -1,33 +1,21 @@
 ---
 title: Links
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4
         params:
             icon: link
+links:
+  - title: Rust Lang
+    description: A language empowering everyone to build reliable and efficient software.
+    website: https://www.rust-lang.org
+    image: https://www.rust-lang.org/static/images/rust-logo-blk.svg
+  - title: Rustlings
+    description: Small exercises to get you used to reading and writing Rust code.
+    website: https://rustlings.cool
+    image: https://www.rust-lang.org/static/images/rust-logo-blk.svg
 
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Nuestros sitios recomendados!
