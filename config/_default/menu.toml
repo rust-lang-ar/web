@@ -21,7 +21,7 @@ name = "MeetUp"
 url = "https://www.meetup.com/rust-argentina/"
 
 [social.params]
-icon = "link"
+icon = "date"
 
 [[social]]
 identifier = "youtube"
@@ -29,4 +29,12 @@ name = "YouTube"
 url = "https://www.youtube.com/channel/UCgMfqeykzhtqqHdOKJxfZ2A"
 
 [social.params]
-icon = "link"
+icon = "rss"
+
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/rust_lang_es"
+
+[social.params]
+icon = "brand-twitter"
