@@ -21,7 +21,7 @@ name = "MeetUp"
 url = "https://www.meetup.com/rust-argentina/"
 
 [social.params]
-icon = "brand-meetup"
+icon = "link"
 
 [[social]]
 identifier = "youtube"
@@ -29,4 +29,4 @@ name = "YouTube"
 url = "https://www.youtube.com/channel/UCgMfqeykzhtqqHdOKJxfZ2A"
 
 [social.params]
-icon = "brand-youtube"
+icon = "link"
