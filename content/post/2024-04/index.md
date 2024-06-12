@@ -9,6 +9,9 @@ categories:
 ---
 
 # April Rust News
+ - Description: "Shuttle.rs, Rust Nation UK y más novedades!"
  - Author: "Hernán G. Gonzalez"
  - Github: [@hernangonzalez](https://github.com/hernangonzalez)
  - Slides: [PDF](whats-new.pdf)
+
+{{< youtube eGvPRNjiSsc >}}
