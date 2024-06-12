@@ -1,20 +1,20 @@
 ---
 title: Junio - 2024
-description: Se viene Meet en Junio
+description: Nos juntamos en Junio a aprender de Colisiones!
 slug: 2024-june
 date: 2024-05-01
 image: cover.jpg
 categories:
-  - Announcement
+  - MeetUp
 ---
 
-# Announcement
+# Rust in Collision Detection
+- Description: Using rust for collision detection and resolution using separated axis theorem
+- Author: "Agustin Escobar"
+- GitHhub: [@agustinesco](https://github.com/agustinesco)
+- Slides: [PDF](collisions.pdf)
 
-Sumate a nuestra proxima juntada en las oficinas de LambdaClass!
-
-Se vienen las charlas de:
-
-- Agustin Escobar hablara sobre "Using rust for collision detection and resolution using separated axis theorem"
-- Rust Updates por Hernan Gonzalez
-
-Anotate en el [MeetUp](https://www.meetup.com/rust-argentina/events/299740249/)
+# June Rust News
+ - Author: "Hernán G. Gonzalez"
+ - Github: [@hernangonzalez](https://github.com/hernangonzalez)
+ - Slides: [PDF](udpates-24-06.pdf)
