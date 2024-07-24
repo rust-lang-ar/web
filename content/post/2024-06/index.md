@@ -8,7 +8,7 @@ categories:
   - MeetUp
 ---
 
-# Rust in Collision Detection
+# Collision Detections with Rust
 - Description: Using rust for collision detection and resolution using separated axis theorem
 - Author: "Agustin Escobar"
 - GitHhub: [@agustinesco](https://github.com/agustinesco)
@@ -26,3 +26,6 @@ Pictures from our event and social :)
 ![4](4.jpeg) ![5](5.jpeg) ![6](6.jpeg) 
 ![7](7.jpeg) ![8](8.jpeg) ![9](9.jpeg) 
 ![10](10.jpeg)
+
+# Recording
+{{< youtube -QtwheLpOeM >}}
