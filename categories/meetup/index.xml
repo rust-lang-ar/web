@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MeetUp on Rust Argentina</title><link>https://rust-lang.ar/categories/meetup/</link><description>Recent content in MeetUp on Rust Argentina</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rust-lang.ar/categories/meetup/index.xml" rel="self" type="application/rss+xml"/><item><title>Septiembre - 2024</title><link>https://rust-lang.ar/p/2024-september/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/p/2024-september/</guid><description>&lt;img src="https://rust-lang.ar/p/2024-september/cover.jpg" alt="Featured image of post Septiembre - 2024" />&lt;h1 id="jornada-de-dobles-de-test-con-jorge-ortiz">Jornada de Dobles de Test con Jorge Ortiz!
+&lt;/h1>&lt;hr>
+&lt;p>En esta reunión Jorge Ortiz, nos guió en una sesión interactiva para implementar unit tests, definir mocks y garantizar la calidad de tus implementaciones. No dejes de ver sus videos en [YouTube](&lt;a class="link" href="https://www.youtube.com/watch?v=_jDKeOtOiEo" target="_blank" rel="noopener"
+>https://www.youtube.com/watch?v=_jDKeOtOiEo&lt;/a>!&lt;/p>
+&lt;h1 id="recording">Recording
+&lt;/h1>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/J5Y5Qfp-Ukc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Junio - 2024</title><link>https://rust-lang.ar/p/2024-june/</link><pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/p/2024-june/</guid><description>&lt;img src="https://rust-lang.ar/p/2024-june/cover.jpg" alt="Featured image of post Junio - 2024" />&lt;h1 id="collision-detections-with-rust">Collision Detections with Rust
+&lt;/h1>&lt;ul>
+&lt;li>Description: Using rust for collision detection and resolution using separated axis theorem&lt;/li>
+&lt;li>Author: &amp;ldquo;Agustin Escobar&amp;rdquo;&lt;/li>
+&lt;li>GitHhub: &lt;a class="link" href="https://github.com/agustinesco" target="_blank" rel="noopener"
+>@agustinesco&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a class="link" href="collisions.pdf" >PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="june-rust-news">June Rust News
+&lt;/h1>&lt;ul>
+&lt;li>Author: &amp;ldquo;Hernán G. Gonzalez&amp;rdquo;&lt;/li>
+&lt;li>Github: &lt;a class="link" href="https://github.com/hernangonzalez" target="_blank" rel="noopener"
+>@hernangonzalez&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a class="link" href="udpates-24-06.pdf" >PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="we-meet">We Meet
+&lt;/h1>&lt;p>Pictures from our event and social :)&lt;/p>
+&lt;p>&lt;img src="https://rust-lang.ar/p/2024-june/1.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/1_hu4351964414412608915.jpeg 480w, https://rust-lang.ar/p/2024-june/1_hu996624114477082977.jpeg 1024w"
+loading="lazy"
+alt="1"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://rust-lang.ar/p/2024-june/2.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/2_hu2852133675458946765.jpeg 480w, https://rust-lang.ar/p/2024-june/2_hu2129368676305280842.jpeg 1024w"
+loading="lazy"
+alt="2"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://rust-lang.ar/p/2024-june/3.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/3_hu4254742127498745881.jpeg 480w, https://rust-lang.ar/p/2024-june/3_hu7810243223968551628.jpeg 1024w"
+loading="lazy"
+alt="3"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>
+&lt;img src="https://rust-lang.ar/p/2024-june/4.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/4_hu9782264233866308257.jpeg 480w, https://rust-lang.ar/p/2024-june/4_hu6035637173472486553.jpeg 1024w"
+loading="lazy"
+alt="4"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://rust-lang.ar/p/2024-june/5.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/5_hu17130125568809549374.jpeg 480w, https://rust-lang.ar/p/2024-june/5_hu12409260510718593789.jpeg 1024w"
+loading="lazy"
+alt="5"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://rust-lang.ar/p/2024-june/6.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/6_hu6264993159480884833.jpeg 480w, https://rust-lang.ar/p/2024-june/6_hu9497184922169404962.jpeg 1024w"
+loading="lazy"
+alt="6"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>
+&lt;img src="https://rust-lang.ar/p/2024-june/7.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/7_hu4551942472661987493.jpeg 480w, https://rust-lang.ar/p/2024-june/7_hu9245819179186745881.jpeg 1024w"
+loading="lazy"
+alt="7"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://rust-lang.ar/p/2024-june/8.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/8_hu4916392245913947724.jpeg 480w, https://rust-lang.ar/p/2024-june/8_hu11576286548643752831.jpeg 1024w"
+loading="lazy"
+alt="8"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://rust-lang.ar/p/2024-june/9.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/9_hu5406646549739853933.jpeg 480w, https://rust-lang.ar/p/2024-june/9_hu2301138252076102634.jpeg 1024w"
+loading="lazy"
+alt="9"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>
+&lt;img src="https://rust-lang.ar/p/2024-june/10.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/p/2024-june/10_hu15010497553481483149.jpeg 480w, https://rust-lang.ar/p/2024-june/10_hu6054044373548074989.jpeg 1024w"
+loading="lazy"
+alt="10"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h1 id="recording">Recording
+&lt;/h1>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/-QtwheLpOeM"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Abril - 2024</title><link>https://rust-lang.ar/p/2024-april/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/p/2024-april/</guid><description>&lt;img src="https://rust-lang.ar/p/2024-april/cover.jpg" alt="Featured image of post Abril - 2024" />&lt;h1 id="april-rust-news">April Rust News
+&lt;/h1>&lt;ul>
+&lt;li>Description: &amp;ldquo;Shuttle.rs, Rust Nation UK y más novedades!&amp;rdquo;&lt;/li>
+&lt;li>Author: &amp;ldquo;Hernán G. Gonzalez&amp;rdquo;&lt;/li>
+&lt;li>Github: &lt;a class="link" href="https://github.com/hernangonzalez" target="_blank" rel="noopener"
+>@hernangonzalez&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a class="link" href="whats-new.pdf" >PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/eGvPRNjiSsc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Enero - 2024</title><link>https://rust-lang.ar/p/2024-january/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/p/2024-january/</guid><description>&lt;img src="https://rust-lang.ar/p/2024-january/cover.jpg" alt="Featured image of post Enero - 2024" />&lt;h1 id="crear-un-parser-de-json-con-lalrpop-en-rust">Crear un parser de JSON Con LALRPOP en Rust
+&lt;/h1>&lt;ul>
+&lt;li>Author: &amp;ldquo;Edgar Luque&amp;rdquo;&lt;/li>
+&lt;li>Github: &lt;a class="link" href="http://github.com/edg-l" target="_blank" rel="noopener"
+>@edg-l&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a class="link" href="parser-lalrpop.pdf" >PDF&lt;/a>&lt;/li>
+&lt;li>Repositories: &lt;a class="link" href="http://github.com/edg-l/lalrpop-json" target="_blank" rel="noopener"
+>lalrpop-json&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="implementing-raft-in-rust">Implementing Raft in Rust
+&lt;/h1>&lt;ul>
+&lt;li>Author: Juan Bono&lt;/li>
+&lt;li>Slides: &lt;a class="link" href="raft-in-rust.pdf" >PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="rust-en-europa-y-reino-unido">Rust en Europa y Reino Unido
+&lt;/h1>&lt;ul>
+&lt;li>Author: &amp;ldquo;Hernán G. Gonzalez&amp;rdquo;&lt;/li>
+&lt;li>Github: &lt;a class="link" href="https://github.com/hernangonzalez" target="_blank" rel="noopener"
+>@hernangonzalez&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a class="link" href="meetups-north.pdf" >PDF&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Agosto - 2020</title><link>https://rust-lang.ar/p/2020-august/</link><pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/p/2020-august/</guid><description>&lt;img src="https://rust-lang.ar/p/2020-august/cover.jpg" alt="Featured image of post Agosto - 2020" />&lt;h1 id="parsers-y-combinator-parsers">Parsers y Combinator Parsers
+&lt;/h1>&lt;ul>
+&lt;li>Author: &amp;ldquo;Andrés Testi&amp;rdquo;&lt;/li>
+&lt;li>Github: &lt;a class="link" href="https://github.com/andytesti" target="_blank" rel="noopener"
+>@andytesti&lt;/a>&lt;/li>
+&lt;li>Repositories: &lt;a class="link" href="https://github.com/Geal/nom" target="_blank" rel="noopener"
+>nom&lt;/a>, &lt;a class="link" href="https://github.com/fflorent/nom_locate" target="_blank" rel="noopener"
+>nom-locate&lt;/a>.&lt;/li>
+&lt;li>Playground: &lt;a class="link" href="https://play.rust-lang.org/?version=stable&amp;amp;mode=debug&amp;amp;edition=2018&amp;amp;gist=cfdca7b4146f444d4ec3e91c9714779e" target="_blank" rel="noopener"
+>play.rust-lang.org&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="rust-n-risc-v---barbaos">Rust n&amp;rsquo; Risc V - BarbaOS
+&lt;/h1>&lt;ul>
+&lt;li>Author: &amp;ldquo;Matias Lafroce&amp;rdquo;&lt;/li>
+&lt;li>Github: &lt;a class="link" href="ttps://github.com/mlafroce" >@mlafroce&lt;/a>&lt;/li>
+&lt;li>Repositories: &lt;a class="link" href="https://github.com/mlafroce/barbaos" target="_blank" rel="noopener"
+>BarbaOS&lt;/a>.&lt;/li>
+&lt;/ul></description></item></channel></rss>
