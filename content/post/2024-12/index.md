@@ -22,6 +22,7 @@ También te dejamos estos talleres de Navidad, para que no dejes de hacer feliz 
 + [Shuttle - Christmass Code Hunt](https://www.shuttle.dev/cch)
 
 Te acercamos tambien una encuesta para que nos dejes tu opinion, y nos consejos para próximos talleres. Si tenes ganás de contribuir, sos bienvenido!
+* [Tu opinión](https://docs.google.com/forms/d/e/1FAIpQLScAm2jAk7eDRbBVo7MLN5m-odEgTqxruozs4MOQsFa_F3oBxQ/viewform)
 
 Felicidades!
 
