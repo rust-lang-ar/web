@@ -1,7 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://rust-lang.ar"
-languageCode = "en-us"
-paginate = 5
+languageCode = "es-ar"
 title = "Rust Argentina"
 
 # Theme i18n support
