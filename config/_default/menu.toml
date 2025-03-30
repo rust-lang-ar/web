@@ -11,30 +11,28 @@
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/rust-lang-ar"
-
-[social.params]
-icon = "brand-github"
+params.icon = "brand-github"
 
 [[social]]
 identifier = "meetup"
 name = "MeetUp"
 url = "https://www.meetup.com/rust-argentina/"
-
-[social.params]
-icon = "date"
+params.icon = "date"
 
 [[social]]
 identifier = "youtube"
 name = "YouTube"
 url = "https://www.youtube.com/channel/UCgMfqeykzhtqqHdOKJxfZ2A"
-
-[social.params]
-icon = "rss"
+params.icon = "brand-youtube"
 
 [[social]]
 identifier = "telegram"
 name = "Telegram"
 url = "https://t.me/rust_lang_es"
+params.icon = "brand-telegram"
 
-[social.params]
-icon = "brand-twitter"
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/rust-argentina/"
+params.icon = "brand-linkedin"

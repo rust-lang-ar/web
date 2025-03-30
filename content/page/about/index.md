@@ -13,10 +13,12 @@ menu:
 # Nuestra Comunidad
 ![Image 1](tsAmqTh.jpeg)
 
-La comunidad de Rust en Argentina es pequeña pero creciente.
+La comunidad de Rust en Argentina es un espacio dedicado a compartir y desarrollar el lenguage. Somos parte de la comunidad Rust LatAm y colaboramos con nuestros colegas hispano-parlantes.
 
 Desde 2018 hemos organizado meetups de Rust en la Ciudad Autónoma de Buenos Aires, dado clases por invitación en facultades publicas y gestionado acercar oradores del exterior para dar charlas y conocer a la comunidad.
 
 Si estas interesado o interesada en aprender Rust, o estas llevando a cabo un proyecto con tecnología asociada, te invitamos a acercarte y participar.
 
-El sitio en Meetup punto com de la comunidad es: Rust-Argentina También tenemos un un canal en Telegram. Agradecemos a LambdaClass por su apoyo a la comunidad.
+El sitio en Meetup punto com de la comunidad es: Rust-Argentina También tenemos un un canal en Telegram. 
+
+Agradecemos a LambdaClass, y a todos nuestros hosts por su apoyo a la comunidad!
