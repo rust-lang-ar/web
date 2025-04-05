@@ -1,37 +1,39 @@
 ---
 title: Abril - 2025
-description: Lambdas y más!
+description: Nos juntamos a aprender de Cargo Lambda, AWS con Rust, avances en Enterprise y un invitador sorpresa!
 slug: 2025-april
-date: 2025-03-30
-image: cover.webp
+date: 2025-04-03
+image: cover.jpeg
 categories:
   - MeetUp
 ---
-
-
 # Lambdas y más!
-
 ---
 📢 ¡Nuevo meetup de Rust en abril! 🚀
 
 Nos juntamos a aprender de Cargo, AWS Lambdas, Rust en la nube y los beneficios y desafíos de Rust en producción.
 
-En esta edición, tendremos dos charlas imperdibles:
+En esta edición, tuvimos unas charlas imperdibles:
 
-🔹 Nicolás Antinori - Creando un authorizer en AWS con cargo-lambda
+🔹 [Hernán G. Gonzalez](https://www.linkedin.com/in/nicolas-antinori/) - Anuncios de la comunidad, tenemos Edicion 2024, y compartimos los updates de Rust 1.86.0.
+
+🔹 [Nicolás Antinori](https://www.linkedin.com/in/nicolas-antinori/) - Creando un authorizer en AWS con cargo-lambda
 Aprenderemos cómo utilizar cargo-lambda para desarrollar y desplegar un authorizer en AWS, facilitando la autenticación y autorización en arquitecturas serverless.
 
-🔹 Alejandro Leiton - Tips para Rust en entornos empresariales
+🔹 [Alejandro Leiton](https://www.linkedin.com/in/alejandro-leiton/) - Tips para Rust en entornos empresariales
 Consejos prácticos y estrategias para adoptar Rust en empresas. Exploramos casos, cómo entrenar equipos en el lenguaje y el estado actual de la comunidad de Rust.
 
-📅 Fecha: Jueves 3 de abril
-📍 Ubicación: Oficinas de Ualá - Ola, junto al Rosedal (Palermo, Buenos Aires)
-🕕 Hora: 18:00 hs
-🗺️ Zoom: Podes [seguirlo en vivo](https://us06web.zoom.us/u/kc2lvm4JC6)
+🔹 [Fernando Pastorelli](https://www.linkedin.com/in/fernando-pastorelli/) - Nos compartió su experiencia proponiendo la addición del feature `input!()` al leanguaje.
 
-Para arrancar el año con todo, vamos a recibirlos con bebidas y snacks 🍻🍕 ¡No te lo pierdas! Confirma tu asistencia y sumate a oxidar!
+# Las fotos del evento
 
-🎟 Registro para ingresar al edificio: https://forms.gle/5zysaf66JSE5bD7X6
+![](pics/2.jpeg) ![](pics/3.jpeg) 
+![](pics/5.jpeg) ![](pics/6.jpeg)
+![](pics/7.jpeg) ![](pics/8.jpeg)
+![](pics/9.jpeg) ![](pics/10.jpeg)
+![](pics/11.jpeg) ![](pics/12.jpeg)
+![](pics/13.jpeg) ![](pics/14.jpeg)
+![](pics/15.jpeg)
 
 # Recording
 _coming soon_
