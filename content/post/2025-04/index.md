@@ -25,6 +25,9 @@ Consejos prácticos y estrategias para adoptar Rust en empresas. Exploramos caso
 
 🔹 [Fernando Pastorelli](https://www.linkedin.com/in/fernando-pastorelli/) - Nos compartió su experiencia proponiendo la addición del feature `input!()` al leanguaje.
 
+# Los Slides
+Los contenidos que vimos en las charlas, los podes [leer aquí](slides.pdf)
+
 # Las fotos del evento
 
 ![](pics/2.jpeg) ![](pics/3.jpeg) 
