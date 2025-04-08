@@ -39,4 +39,4 @@ Los contenidos que vimos en las charlas, los podes [leer aquí](slides.pdf)
 ![](pics/15.jpeg)
 
 # Recording
-_coming soon_
+{{< youtube CjZq93pzOkA >}}
