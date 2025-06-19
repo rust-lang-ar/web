@@ -27,4 +27,4 @@ Lanzamos oficialmente Oxidar, un grupo latinoamericano para la divulgación y co
 🕕 Hora: 18:30 hs (GMT-3)
 
 # Recording
-{{< youtube lH2Fnd7ryKY >}}
+{{< youtube OvRz1qx9l4o >}}
