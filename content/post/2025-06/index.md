@@ -28,3 +28,8 @@ Lanzamos oficialmente Oxidar, un grupo latinoamericano para la divulgación y co
 
 # Recording
 {{< youtube OvRz1qx9l4o >}}
+
+# Las fotos del evento
+
+![](pics/1.jpeg) ![](pics/2.jpeg)
+![](pics/3.jpeg) ![](pics/4.jpeg)
