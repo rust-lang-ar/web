@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Rust Argentina</title><link>https://rust-lang.ar/page/</link><description>Recent content in Pages on Rust Argentina</description><generator>Hugo -- gohugo.io</generator><language>es-ar</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rust-lang.ar/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://rust-lang.ar/about/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/about/</guid><description>&lt;h1 id="nuestra-comunidad"&gt;Nuestra Comunidad
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://rust-lang.ar/about/tsAmqTh.jpeg"
+width="4032"
+height="3024"
+srcset="https://rust-lang.ar/about/tsAmqTh_hu_c22cf115e065a669.jpeg 480w, https://rust-lang.ar/about/tsAmqTh_hu_4bf42338db5be4d5.jpeg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;La comunidad de Rust en Argentina es un espacio dedicado a compartir y desarrollar el lenguage. Somos parte de la comunidad Rust LatAm y colaboramos con nuestros colegas hispano-parlantes.&lt;/p&gt;
+&lt;p&gt;Desde 2018 hemos organizado meetups de Rust en la Ciudad Autónoma de Buenos Aires, dado clases por invitación en facultades publicas y gestionado acercar oradores del exterior para dar charlas y conocer a la comunidad.&lt;/p&gt;
+&lt;p&gt;Si estas interesado o interesada en aprender Rust, o estas llevando a cabo un proyecto con tecnología asociada, te invitamos a acercarte y participar.&lt;/p&gt;
+&lt;p&gt;El sitio en Meetup punto com de la comunidad es: Rust-Argentina También tenemos un un canal en Telegram.&lt;/p&gt;
+&lt;p&gt;Agradecemos a LambdaClass, y a todos nuestros hosts por su apoyo a la comunidad!&lt;/p&gt;</description></item><item><title>Archives</title><link>https://rust-lang.ar/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/archives/</guid><description/></item><item><title>Links</title><link>https://rust-lang.ar/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/links/</guid><description>&lt;p&gt;Nuestros sitios recomendados!&lt;/p&gt;</description></item><item><title>Search</title><link>https://rust-lang.ar/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rust-lang.ar/search/</guid><description/></item></channel></rss>
