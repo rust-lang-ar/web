@@ -23,7 +23,7 @@ Otra edición de la competencia que da premios! Cuanto sabés de Rust? Podés se
 📅 Fecha: Miércoles 8 de Octubre
 📍 Ubicación: Ángel Justiniano Carranza 1441, C1414COM Cdad. Autónoma de Buenos Aires
 🕕 Hora: 18:00 hs (GMT-3)
-💻 Zoom: (en breve)
+💻 Zoom: [Zoom](https://us06web.zoom.us/j/82085033588?pwd=tidbe7GexFyn12g86i7juUTs5mvuqX.1)
 🥤 Como siempre, vamos a tener bebidas, snacks y muy buena onda para seguir haciendo crecer la comunidad.
 
 📡 Más info en
